@@ -6,4 +6,3 @@ public class FirstTwo {
         return str.substring(0, 2);
     }
 }
-//fix

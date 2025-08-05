@@ -3,3 +3,4 @@ public class FirstHalf {
         return str.substring(0, str.length() / 2);
     }
 }
+
