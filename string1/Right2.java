@@ -3,3 +3,4 @@ public class Right2 {
         return str.substring(str.length() - 2) + str.substring(0, str.length() - 2);
     }
 }
+// Fixed comment: this is the correct solution for string1-right2
